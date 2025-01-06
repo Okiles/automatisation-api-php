@@ -6,4 +6,4 @@ Simple API using Slim v4 MySQL and optionnaly S3 Storage
 
 - Create `.env` from `.env.exemple`
 - Update environement variable
-- run `php -S localhost:<PORT> -t ./public`
+- run `php -S localhost:8080 -t ./public`
